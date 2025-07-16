@@ -1,0 +1,11 @@
+# Screens Directory
+
+This directory contains application screens and page implementations.
+
+Planned screens:
+- HomeScreen: Main dashboard with learning groups
+- GroupDetailScreen: Individual group with video list
+- VideoPlayerScreen: Video playback with notes
+- FlashcardReviewScreen: Flashcard practice sessions
+- ProgressScreen: Learning analytics and achievements
+- SettingsScreen: App configuration and preferences

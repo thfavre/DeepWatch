@@ -1,0 +1,10 @@
+# Widgets Directory
+
+This directory contains reusable UI components and custom widgets.
+
+Planned widgets:
+- VideoPlayerWidget: Custom YouTube player with controls
+- NotesEditor: Markdown editor with auto-save
+- FlashcardWidget: Interactive flashcard display
+- ProgressBar: Learning progress visualization
+- FocusModeOverlay: Focus mode interface

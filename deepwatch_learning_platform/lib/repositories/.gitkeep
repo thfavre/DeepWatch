@@ -1,0 +1,10 @@
+# Repositories Directory
+
+This directory contains data access layer and storage management classes.
+
+Planned repositories:
+- LearningGroupRepository: CRUD operations for learning groups
+- FlashcardRepository: Flashcard storage and retrieval
+- UserRepository: User data management
+- ProgressRepository: Learning progress tracking
+- DatabaseHelper: SQLite database operations

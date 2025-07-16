@@ -1,0 +1,10 @@
+# Services Directory
+
+This directory contains business logic and external API integration services.
+
+Planned services:
+- YouTubeService: YouTube API integration and URL validation
+- AIService: AI-powered flashcard generation
+- SyncService: Cross-platform data synchronization
+- FocusModeService: Device locking and timer management
+- NotificationService: User notifications and alerts

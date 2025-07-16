@@ -1,0 +1,10 @@
+# Models Directory
+
+This directory contains data models and entity classes for the DeepWatch Learning Platform.
+
+Planned models:
+- LearningGroup: Represents a collection of YouTube videos
+- VideoItem: Individual video with metadata and progress
+- Flashcard: AI-generated or manual flashcards for spaced repetition
+- FocusSession: Focus mode session tracking
+- User: User profile and preferences

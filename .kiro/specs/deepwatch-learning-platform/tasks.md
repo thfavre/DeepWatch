@@ -13,7 +13,9 @@
   - _Requirements: 8.1, 8.2_
 
 - [ ] 2. Implement core data models and validation
-- [ ] 2.1 Create data model classes with JSON serialization
+
+
+- [x] 2.1 Create data model classes with JSON serialization
   - Write LearningGroup, VideoItem, Flashcard, and FocusSession model classes
   - Implement toJson() and fromJson() methods for all models
   - Add validation methods for YouTube URL format and required fields
@@ -21,14 +23,19 @@
   - _Requirements: 1.2, 1.5_
 
 - [ ] 2.2 Implement local database schema and operations
+
   - Create SQLite database schema for all data models
   - Write database helper class with CRUD operations
   - Implement database migration logic for schema updates
   - Create unit tests for database operations
   - _Requirements: 6.1, 6.2, 8.5_
 
-- [ ] 3. Build learning group management system
-- [ ] 3.1 Create learning group repository with CRUD operations
+- [-] 3. Build learning group management system
+
+
+
+- [-] 3.1 Create learning group repository with CRUD operations
+
   - Implement LearningGroupRepository interface
   - Write methods for creating, reading, updating, and deleting groups
   - Add progress calculation logic for groups and videos
